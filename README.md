@@ -1,4 +1,7 @@
 # Aplicatie-pentru-gestionarea-unei-florarii
+
+>**Last update:** ~January 2025
+
 O aplicatie in consola, C++ pentru gestionarea unei florarii cu urmatoarele functii: 
 
      1.Citire stoc
